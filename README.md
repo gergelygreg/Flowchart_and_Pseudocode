@@ -8,7 +8,7 @@ Example:
 Task description:
 1.1 4 11 Sequential Operations Lab.pdf
 Task answer:
-1.2 4 11 Sequential Operations Lab ; Answers.pdf
+1.2 4 11 Sequential Operations Lab; Answers.pdf
 Task my solution (with Python and Java code)
 1.1 4 11 Sequential Operations Lab.drawio.pdf
 
