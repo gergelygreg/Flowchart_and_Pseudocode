@@ -15,3 +15,17 @@ Task answer:
 Task my solution (with Python and Java code)
 1.1 4 11 Sequential Operations Lab.drawio.pdf
 
+Content:
+
+-Flow Charts
+
+-Pseudocode
+
+-Three Control Structures
+1. Sequence
+2. Decision or Selection
+3. Repetition or Loops
+
+-Comparison Operators (<, >, <=, >=, <>, !=)
+
+-Boolean Operators (And, Or, Not)
